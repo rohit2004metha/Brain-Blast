@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?",
+            "correct_answer": "Myrtenaster",
+            "incorrect_answers": [
+                "Gambol Shroud",
+                "Crescent Rose",
+                "Ember Celica"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science: Gadgets",
+            "question": "Microphones can be used not only to pick up sound, but also to project sound similar to a speaker.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;PUBATTLEGROUNDS&quot; what is the name of the Military Base island?",
+            "correct_answer": "Sosnovka",
+            "incorrect_answers": [
+                "Novorepnoye",
+                "Mylta",
+                "Yasnaya"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "In the 2014 film &quot;Birdman&quot;, what is the primary instrument in the score?",
+            "correct_answer": "Drums",
+            "incorrect_answers": [
+                "Saxophone",
+                "Violin",
+                "Actual Live Birds Singing"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?",
+            "correct_answer": "Snoop Dogg",
+            "incorrect_answers": [
+                "Vince Staples",
+                "Pusha T",
+                "Danny Brown"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In &quot;Love Live: School Idol Project&quot; what pseudonym does Kotori Minami use in her job as a maid?",
+            "correct_answer": "Minalinsky",
+            "incorrect_answers": [
+                "Stanoytchev",
+                "Kuznetsov",
+                "Aqours"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Joseph Stalin had a criminal past doing what?",
+            "correct_answer": "Robbing Trains",
+            "incorrect_answers": [
+                "Murder for Hire",
+                "Tax Evasion",
+                "Identity Fraud"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which Sonic the Hedgehog game introudced Knuckles the Echidna?",
+            "correct_answer": "Sonic the Hedgehog 3",
+            "incorrect_answers": [
+                "Sonic the Hedgehog 2",
+                "Sonic &amp; Knuckles",
+                "Sonic Adventure"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which of these is NOT the name of a team leader in Pok&eacute;mon GO?",
+            "correct_answer": "Leif",
+            "incorrect_answers": [
+                "Blanche",
+                "Spark",
+                "Candela"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Where and when was the first cardboard box made for industrial use?",
+            "correct_answer": "England, 1817",
+            "incorrect_answers": [
+                "United States, 1817",
+                "England, 1917",
+                "United States, 1917"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the collective noun for bears?",
+            "correct_answer": "Sloth",
+            "incorrect_answers": [
+                "Drove",
+                "Tribe",
+                "Husk"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "hard",
+            "category": "Politics",
+            "question": "George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "What was the number on Gerald&#039;s shirt in &quot;Hey Arnold!&quot;?",
+            "correct_answer": "33",
+            "incorrect_answers": [
+                "88",
+                "38",
+                "83"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following men does not have a chemical element named after him?",
+            "correct_answer": "Sir Isaac Newton",
+            "incorrect_answers": [
+                "Albert Einstein",
+                "Niels Bohr",
+                "Enrico Fermi"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Gadgets",
+            "question": "What is the most significant side venture the popular firearms company, Remington, has pursued?",
+            "correct_answer": "Typewriters",
+            "incorrect_answers": [
+                "Blenders",
+                "Ceiling Fans",
+                "Door Knobs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which Apollo mission was the first one to land on the Moon?",
+            "correct_answer": "Apollo 11",
+            "incorrect_answers": [
+                "Apollo 10",
+                "Apollo 9",
+                "Apollo 13"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+            "correct_answer": "Sunderland FC",
+            "incorrect_answers": [
+                "Barcelona FC",
+                "Paris Saints-Germain",
+                "Manchester United"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "From 1940 to 1942, what was the capital-in-exile of Free France ?",
+            "correct_answer": "Brazzaville",
+            "incorrect_answers": [
+                "Algiers",
+                "Paris",
+                "Tunis"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
+            "correct_answer": "Daft Punk",
+            "incorrect_answers": [
+                "deadmau5",
+                "Disclosure",
+                "DJ Shadow"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;Gravity Falls&quot;, how much does Waddles weigh when Mable wins him in &quot;The Time Traveler&#039;s Pig&quot;?",
+            "correct_answer": "15 pounds",
+            "incorrect_answers": [
+                "20 pounds",
+                "10 pounds",
+                "30 pounds"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "What was the name of the first Bulgarian personal computer?",
+            "correct_answer": "IMKO-1",
+            "incorrect_answers": [
+                "Pravetz 82",
+                "Pravetz 8D",
+                "IZOT 1030"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In &quot;SpongeBob SquarePants&quot;, what is the name of Sandy Cheek&#039;s place of residence?",
+            "correct_answer": "Sandy&#039;s Treedome",
+            "incorrect_answers": [
+                "&quot;The Dome&quot;",
+                "Sandy&#039;s Bubble",
+                "Auquatic Reseach Centre"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "In Magic: The Gathering, which of the following was the first publicly released foil card?",
+            "correct_answer": "Lightning Dragon",
+            "incorrect_answers": [
+                "Revenant",
+                "Beast of Burden",
+                "Dirtcowl Wurm"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "How does the character Dragowizard, Qinus Axia&#039;s from the anime &quot;Buddyfight&quot; differ between the Japanese and English dubs?",
+            "correct_answer": "Different Gender",
+            "incorrect_answers": [
+                "Different Body Proportions",
+                "Different Backstory",
+                "Different Appearance"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Comics",
+            "question": "In Calvin and Hobbes, what is the name of the principal at Calvin&#039;s school?",
+            "correct_answer": "Mr. Spittle",
+            "incorrect_answers": [
+                "Mr. Boreman",
+                "Mr. Spitling",
+                "Mr. Moe"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Who voices the infamous Citadel Station A.I known as S.H.O.D.A.N, in the System Shock games?",
+            "correct_answer": "Terri Brosius",
+            "incorrect_answers": [
+                " Jennifer Hale",
+                "Jenn Taylor",
+                "Lori Alan"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "In Magic: The Gathering, what term for blocking was established in the Portal set?",
+            "correct_answer": "Intercepting",
+            "incorrect_answers": [
+                "Blocking",
+                "Resisting",
+                "Shielding"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Board Games",
+            "question": "When Magic: The Gathering was first solicited, which of the following was it originally titled?",
+            "correct_answer": "Mana Clash",
+            "incorrect_answers": [
+                "Magic",
+                "Magic Clash",
+                "Mana Duels"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Cartoon &amp; Animations",
+            "question": "In the 1993 Disney animated series &quot;Bonkers&quot;, what is the name of Bonker&#039;s second partner?",
+            "correct_answer": "Miranda Wright",
+            "incorrect_answers": [
+                "Dick Tracy",
+                "Eddie Valiant",
+                "Dr. Ludwig von Drake"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Mythology",
+            "question": "Which of the following is NOT a god in Norse Mythology.",
+            "correct_answer": "Jens",
+            "incorrect_answers": [
+                "Loki",
+                "Tyr",
+                "Snotra"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the fighting game &quot;Skullgirls,&quot; which character utilizes a folding chair called the &quot;Hurting&quot; as a weapon?",
+            "correct_answer": "Beowulf",
+            "incorrect_answers": [
+                "Big Band",
+                "Squigly",
+                "Cerebella"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+            "correct_answer": "Michael Keaton",
+            "incorrect_answers": [
+                "George Clooney",
+                "Val Kilmer",
+                "Adam West"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Books",
+            "question": "In the &quot;Harry Potter&quot; series, what is Headmaster Dumbledore&#039;s full name?",
+            "correct_answer": "Albus Percival Wulfric Brian Dumbledore",
+            "incorrect_answers": [
+                "Albus Valum Jetta Mobius Dumbledore",
+                "Albus James Lunae Otto Dumbledore",
+                "Albus Valencium Horatio Kul Dumbledore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Sports",
+            "question": "Who is Manchester United&#039;s leading appearance maker?",
+            "correct_answer": "Ryan Giggs",
+            "incorrect_answers": [
+                "David Beckham",
+                "Wayne Rooney",
+                "Eric Cantona"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "Which horror movie had a sequel in the form of a video game released in August 20, 2002?",
+            "correct_answer": "The Thing",
+            "incorrect_answers": [
+                "The Evil Dead",
+                "Saw",
+                "Alien"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "What is the official language of Bhutan?",
+            "correct_answer": "Dzongkha",
+            "incorrect_answers": [
+                "Ladakhi",
+                "Karen",
+                "Groma"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "When was the movie &#039;Con Air&#039; released?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1985",
+                "1999",
+                "1990"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In Half-Life 2, if you play the zombies&#039; speech in reverse, they actually speak coherent English.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What amount of bits commonly equals one byte?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "64"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "How many normal endings are there in Cry Of Fear&#039;s campaign mode?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "6"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "An episode of &quot;The Simpsons&quot; is dedicated to Moe Szyslak&#039;s bar rag.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "What year was &quot;JoJo&#039;s Bizarre Adventure: Phantom Blood&quot; first released?",
+            "correct_answer": "1987",
+            "incorrect_answers": [
+                "2013",
+                "1983",
+                "1995"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "Which actor was not a major character in TV Show Freaks and Geeks?",
+            "correct_answer": "Jonah Hill",
+            "incorrect_answers": [
+                "Jason Segel",
+                "Seth Rogen",
+                "James Franco"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In the &quot;Re:Zero&quot; manga series, which of the following Sin Archbishops eats Rem&#039;s existence?",
+            "correct_answer": "Ley Batenkaitos",
+            "incorrect_answers": [
+                "Roy Alphard",
+                "Petelgeuse Romanee-Conti",
+                "Louis Arneb"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+            "correct_answer": "Brooklyn",
+            "incorrect_answers": [
+                "Las Vegas",
+                "Boston",
+                "Seattle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs is not by Tatsuro Yamashita?",
+            "correct_answer": "Lucky Lady Feel So Good ",
+            "incorrect_answers": [
+                "Merry-Go Round",
+                "Let&#039;s Dance Baby",
+                "Love Talkin&#039;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "The Korean War started in what year?",
+            "correct_answer": "1950",
+            "incorrect_answers": [
+                "1945",
+                "1960",
+                "1912"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Board Games",
+            "question": "The board game, Nightmare was released in what year?",
+            "correct_answer": "1991",
+            "incorrect_answers": [
+                "1992",
+                "1989",
+                "1995"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Sports",
+            "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Ferrari"
+            ]
+        }
+    ]
+}

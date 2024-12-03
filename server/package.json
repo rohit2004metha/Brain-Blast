@@ -1,0 +1,17 @@
+{
+  "name": "brainblast",
+  "version": "1.0.0",
+  "description": "brainblast quiz",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^8.2.4"
+  }
+}
